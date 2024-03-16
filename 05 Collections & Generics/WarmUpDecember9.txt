@@ -1,0 +1,10 @@
+Function           LInked List         ArrayList
+size()              1                    1
+add(o)              1                    1
+add(i,0)              n                  n
+get(i)                n                  1
+remove(i)            n                   n
+
+
+
+
